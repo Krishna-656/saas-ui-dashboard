@@ -1,4 +1,4 @@
-## krishna-reddy-ui-dashboard-assignment
+# Krishna Reddy - Created a snapshot of important metrics for JusPay
 
 This project is a pixel-focused, responsive SaaS dashboard built with React, Tailwind CSS, and Framer Motion.
 It includes dark/light mode support, skeleton loaders, SPA navigation, sidebar tooltips, and microinteractions, closely matching the provided Figma design.
