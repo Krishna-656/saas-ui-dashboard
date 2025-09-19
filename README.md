@@ -69,20 +69,20 @@ It includes dark/light mode support, skeleton loaders, SPA navigation, sidebar t
 
 # Install dependencies:
 
-npm install
+- npm install
 
 
 # Start the dev server:
 
-npm run dev
+- npm run dev
 
 
-Open the URL shown by Vite (usually http://localhost:5173
+- Open the URL shown by Vite (usually http://localhost:5173
 ).
 
-Extend dashboard with filters, sorting, and pagination for Orders.
+- Extend dashboard with filters, sorting, and pagination for Orders.
 
-👨‍💻 Author
+# 👨‍💻 Author
 
-Krishna Reddy
-UI Developer Assignment Project
+## Krishna Reddy - Java Full Stack Developer
+
