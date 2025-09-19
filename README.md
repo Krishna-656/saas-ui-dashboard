@@ -1,13 +1,13 @@
-krishna-reddy-ui-dashboard-assignment-v4
+##krishna-reddy-ui-dashboard-assignment
 
-This v4 project is a pixel-focused, responsive SaaS dashboard built with React, Tailwind CSS, and Framer Motion.
+This project is a pixel-focused, responsive SaaS dashboard built with React, Tailwind CSS, and Framer Motion.
 It includes dark/light mode support, skeleton loaders, SPA navigation, sidebar tooltips, and microinteractions, closely matching the provided Figma design.
 
 🚀 Features
 
-Pixel-Perfect Implementation
+- Pixel-Perfect Implementation
 
-Typography, spacing, radii tuned via Tailwind tokens (tailwind.config.cjs).
+- Typography, spacing, radii tuned via Tailwind tokens (tailwind.config.cjs).
 
 Matches Figma layout, alignment, and design language.
 
