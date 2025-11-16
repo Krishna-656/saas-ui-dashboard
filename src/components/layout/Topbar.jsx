@@ -8,7 +8,7 @@ export default function Topbar({ theme, setTheme }){
         <div className="flex items-center justify-between h-16">
           <div className="flex items-center gap-4">
             <h2 className="text-lg font-semibold text-gray-800 dark:text-gray-100">Overview</h2>
-            <div className="hidden sm:block text-sm text-gray-500 dark:text-gray-400">Created a snapshot of important metrics for JusPay</div>
+            <div className="hidden sm:block text-sm text-gray-500 dark:text-gray-400">Created a snapshot of important metrics for JusPay - Krishna Reddy</div>
           </div>
 
           <div className="flex items-center gap-3">
